@@ -1,5 +1,5 @@
 👋 Hi, I’m @t0v4<br>
-👀 I’m interested in Web, Hardware, Embedded<br>
+👀 I’m interested in Web Development, Website Scraping and Anti-Tamper solutions.<br>
 📫 Reach me out: [t0v4](https://t0_v4.t.me)
 
 <picture>
